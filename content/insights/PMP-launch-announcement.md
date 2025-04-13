@@ -1,8 +1,12 @@
 ---
 title: Place Marketing Partners launch announcement
 layout: article
-heroimage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
-description: Clarity, the inward investment marketing specialists, and Diva Creative, the full-service creative agency, have announced the launch of Place Marketing Partners
+heroimage: >-
+  https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
+description: >-
+  Clarity, the inward investment marketing specialists, and Diva Creative, the
+  full-service creative agency, have announced the launch of Place Marketing
+  Partners
 ---
 Clarity, the inward investment marketing specialists, and Diva Creative, the full-service creative agency, have announced the launch of Place Marketing Partners, providing a comprehensive, strategic place marketing solution for clients including local authorities, regional agencies, developers and strategic economic development projects.
 
