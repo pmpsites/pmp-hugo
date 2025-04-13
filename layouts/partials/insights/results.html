@@ -3,13 +3,16 @@
     <div class="content">
       <div class="cards">
         {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "insights" | first 8 ) }}
-
+          
           <div class="card">
             <div class="card-content">                 
               <img class="" src="{{ .Params.heroimage }}" alt="decorative post image">
+               
               <h4>{{ .Params.title}}</h4>
-              <p>{{ .Params.description }} </p>                  
-              <a href="{{ .Permalink }}"><label for="toggle-1" class="link">Read Article<span class="arrow"><img src="/images/solution-arrow_forward.svg"/></span></label></a>
+               
+              <p>{{ .Params.description }} </p>
+                               
+              <a href="{{ .Permalink }}"><span class="link">Read More <span class="arrow"><img src="/images/solution-arrow_forward.svg"/> </span></span>{{ partial "readingtime.html" . }}</a>
             </div>                                       
           </div>
         {{ end }}
