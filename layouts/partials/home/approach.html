@@ -1,0 +1,16 @@
+<section id="approach" class="approach">
+  <div class="text-image">
+      <div class="text-image-left-img">
+        <img class="base-image" src="{{ .Params.approach.image }}">              
+      </div>
+      <div class="text-image-card left">
+        <div class="text-image-card-content">
+          <h3 class="text-image-card-head">{{ .Params.approach.heading }}</h3>
+          {{ range .Params.approach.copy  }}
+          <p>{{ .paragraph }}</p>
+          {{ end }}          
+          <a href="/consultation"><button class="btnCTA btn-orange">{{ .Params.approach.buttontext}}</button></a> 
+        </div>
+    </div>
+  </div>
+</section>

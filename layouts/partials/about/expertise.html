@@ -1,0 +1,18 @@
+<section id="expertise" class="expertise">
+    <div class="text-image">
+        <div class="text-image-left-img">
+          <img class="base-image" src="https://res.cloudinary.com/pmpartner/image/upload/h_600/metalboxformbuilding"/>              
+        </div>
+        <div class="text-image-card left">
+          <div class="text-image-card-content">
+            <h3 class="text-image-card-head">{{ .Params.expertise.heading }}</h3>
+            {{ .Params.expertise.text | markdownify }}
+
+            <p class="large-p">{{ .Params.expertise.note }}</p>
+
+            
+            <a href="/contact"><button class="btnCTA btn-orange">{{ .Params.expertise.buttontext }}</button></a>
+          </div>
+      </div>
+    </div>
+</section>

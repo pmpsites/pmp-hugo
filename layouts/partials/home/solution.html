@@ -1,0 +1,17 @@
+<section id="solution" class="solution">
+  <div class="text-image ">
+      <div class="text-image-right-img">
+        <img class="base-image" src="{{ .Params.solution.image}}">              
+      </div>
+      <div class="text-image-card right">
+        <div class="text-image-card-content">
+          <h3 class="text-image-card-head">{{ .Params.solution.heading}}</h3>
+          <p class="text-image-card-text">
+            {{ range .Params.solution.copy  }}
+            <p>{{ .paragraph }}</p>
+            {{ end }}
+          <a href="/consultation"><button class="btnCTA btn-orange">{{ .Params.solution.buttontext}}</button></a>
+        </div>       
+      </div>
+  </div>
+</section>

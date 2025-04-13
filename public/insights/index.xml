@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Place Marketing Partners</title>
+    <link>http://localhost:1313/insights/</link>
+    <description>Recent content on Place Marketing Partners</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Place Marketing Partners launch announcement</title>
+      <link>http://localhost:1313/insights/pmp-launch-announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/pmp-launch-announcement/</guid>
+      <description>&lt;p&gt;Clarity, the inward investment marketing specialists, and Diva Creative, the full-service creative agency, have announced the launch of Place Marketing Partners, providing a comprehensive, strategic place marketing solution for clients including local authorities, regional agencies, developers and strategic economic development projects.&lt;/p&gt;&#xA;&lt;p&gt;Place Marketing Partners builds on the expertise and track record of both companies in delivering place marketing services, both independently and in partnership.&lt;/p&gt;&#xA;&lt;p&gt;Nick Smillie, Managing Director and senior consultant at Clarity, said:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

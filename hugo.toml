@@ -1,0 +1,6 @@
+baseURL = 'https://place-marketing.org/'
+languageCode = 'en-gb'
+title = 'Place Marketing Partners'
+
+[markup.goldmark.renderer]
+    unsafe = true

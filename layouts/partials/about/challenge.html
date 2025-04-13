@@ -1,0 +1,22 @@
+<section id="challenge" class="challenge">
+    <div class="text-image">
+        <div  class="text-image-right-img" style="position:relative;">
+          <img class="base-image" src="https://res.cloudinary.com/pmpartner/image/upload/diamond-su"/>              
+        </div>            
+        <div class="text-image-card right">
+          <div class="text-image-card-content">
+            <h3 class="text-image-card-head">{{ .Params.partners.heading }}</h3>
+            {{ .Params.partners.text | markdownify }}
+            {{ range .Params.partners.partner  }}
+              <input type="checkbox" id="toggle-1" class="toggle-checkbox">
+               <div class="drawer">
+              
+                 <label for="toggle-1" class="link"><div class="arrow"><img src="/images/open.svg"></div><div>{{ .name }}</div></label>
+              
+                 <div class="solutiontext">{{ .text }}</div>
+               </div>
+             {{ end }}  
+          </div>
+        </div>
+    </div>
+</section>

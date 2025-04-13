@@ -1,0 +1,16 @@
+<section id="challenge" class="challenge">
+  <div class="text-image">
+      <div class="text-image-right-img" style="position:relative;">
+        <img class="base-image" src="{{ .Params.challenge.image}}">              
+      </div>            
+      <div class="text-image-card right">
+        <div class="text-image-card-content">
+          <h3 class="text-image-card-head">{{ .Params.challenge.heading }}</h3>
+          {{ range .Params.challenge.copy  }}
+          <p>{{ .paragraph }}</p>
+          {{ end }}
+          <a href="/consultation"><button class="btnCTA btn-orange">{{ .Params.challenge.buttontext}}</button></a>
+        </div>
+      </div>
+  </div>
+</section>
