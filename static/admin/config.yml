@@ -1,0 +1,64 @@
+backend:
+  name: github
+  repo: pmpsites/pmp-hugo
+  branch: main
+  base_url: https://pmp-hugo.pages.dev #url for Oauth app on Github Developer settings
+  auth_endpoint: /api/auth
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: pmpartner
+    api_key: 168594154229559
+    multiple: false
+    output_filename_only: false
+
+
+publish_mode: editorial_workflow
+logo_url: https://pmp-hugo.pages.dev/images/logo-sml.svg
+
+
+media_folder: "/img" # Folder where user uploaded files should go
+public_folder: "/img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: 'insights' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Insights' # Used in the UI
+    label_singular: 'Insight' # Used in the UI, ie: "New Post"
+    description: >
+      The description is a great place for tone setting, high level information, and editing
+      guidelines that are specific to a collection.
+    folder: 'content/insights'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    create: true # Allow users to create new documents in this collection
+    editor:
+      visualEditing: true
+    view_filters:
+      - label: Insights
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # all The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: 'string', default: 'article', hidden: true }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: 'Draft', name: 'draft', widget: 'boolean', default: false }      
+      - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD HH:mm', default: '{{now}}'}
+      - {label: "Description(used in Insight cards)", name: "description", widget: "text", required: false}
+      - {label: "Hero Image", name: "heroimage", widget: "image", required: false}
+      - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}         
+      - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}
+      - {label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+      - {label: "Tags", name: "tags", widget: "select", options: ["Strategy","Thinking","News"], multiple: true,required: false}              
+      - {label: "Sources/References", name: "sources", widget: "list", fields: [
+              {label: "Ref No", name: "refno", widget: "number", required: false},
+              {label: "Source", name: "source", widget: "string", required: false},
+              {label: "Url", name: "url", widget: "string", required: false },
+              {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}                 

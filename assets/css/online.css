@@ -2290,7 +2290,7 @@
       align-content: center;
       justify-content: flex-start;
       & .arrow{
-          height: 1.2rem;
+          height: 1.7rem;
        }
     }
     .card:hover img.a{
@@ -2479,7 +2479,7 @@
             & a{
               text-decoration: none;
               & :hover .arrow{
-                  transform: translateX(1rem);
+                  transform: translateX(0.8rem);
                   transition: transform 0.3s ease-in-out;
                
               }
