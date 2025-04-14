@@ -6,8 +6,8 @@ date: 2025-04-14 17:24
 description: Clarity, the inward investment marketing specialists, and Diva
   Creative, the full-service creative agency, have announced the launch of Place
   Marketing Partners
-heroimage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
-socialimage: https://res.cloudinary.com/pmpartner/image/upload/w_800/portsmouth-ext.jpg
+heroimage: https://picsum.photos/id/177/786/385
+socialimage: https://picsum.photos/id/177/786/385
 ---
 **Clarity**, the inward investment marketing specialists, and **Diva Creative**, the full-service creative agency, have announced the launch of Place Marketing Partners, providing a comprehensive, strategic place marketing solution for clients including local authorities, regional agencies, developers and strategic economic development projects.
 
