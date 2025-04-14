@@ -89,10 +89,10 @@ collections: # A list of collections the CMS should be able to edit
         media_library:
            config:
              default_transformations:
-              fetch_format: auto
-              width: 700    
-              quality: auto
-              crop: fill
+               - - fetch_format: auto
+                   width: 700    
+                   quality: auto
+                   crop: fill
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}         
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}
       - {label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
