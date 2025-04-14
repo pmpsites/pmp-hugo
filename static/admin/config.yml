@@ -82,7 +82,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: 'Draft', name: 'draft', widget: 'boolean', default: false }      
       - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD HH:mm', default: '{{now}}'}
       - {label: "Description(used in Insight cards)", name: "description", widget: "text", required: false}
-      - {label: "Hero Image", name: "image", widget: "image", required: false}
+      - label: "Hero Image"
+        name: "image"
+        widget: "image"
+        required: false
+         media_library:
+           config:
+             default_transformations:
+              fetch_format: auto
+              width: 700    
+              quality: auto
+              crop: fill
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}         
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}
       - {label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
