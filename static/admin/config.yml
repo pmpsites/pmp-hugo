@@ -88,6 +88,7 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         media_library:
            config:
+             use_transformations: true
              default_transformations:
                fetch_format: auto
                width: 700    
