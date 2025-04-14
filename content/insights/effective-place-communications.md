@@ -4,9 +4,9 @@ layout: article
 heroimage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
 description: Why are effective place communications vital in delivering ambitious economic development projects?
 ---
-### Cambridge Case Study
 
-Why are effective place communications vital in delivering ambitious economic development projects? (A Cambridge, UK case study).
+
+### Why are effective place communications vital in delivering ambitious economic development projects? (A Cambridge, UK case study).
 
 **In the UK, the university cities of Cambridge and Oxford have been identified as key potential drivers of both regional and national economic growth. But growth means development, and making cities bigger - especially historic ones -  often encounters significant opposition from residents.**
 
