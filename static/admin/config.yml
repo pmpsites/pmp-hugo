@@ -93,5 +93,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Url", name: "url", widget: "string", required: false },
               {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}  
     filter:
-          field: "hidden"
-          value: false               
+          field: "layout"
+          value: 'article'               
