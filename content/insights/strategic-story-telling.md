@@ -1,8 +1,11 @@
 ---
-title: Strategic Story Telling
 layout: article
-heroimage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
-description: Which stories should we tell through our place marketing, and why should we tell them?
+title: Strategic Story Telling
+draft: false
+date: 2025-04-14 18:58
+description: Which stories should we tell through our place marketing, and why
+  should we tell them?
+heroimage: https://res.cloudinary.com/pmpartner/image/upload/v1743437601/townsquare.jpg
 ---
 ### Which stories should we tell through our place marketing, and why should we tell them?
 **Places, whether they be towns, cities or regions, offer a wealth of stories from diverse perspectives. But which ones should we choose to tell through our place marketing, and why?** 
