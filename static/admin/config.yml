@@ -56,11 +56,10 @@ collections: # A list of collections the CMS should be able to edit
     label: 'Insights' # Used in the UI
     label_singular: 'Insight' # Used in the UI, ie: "New Post"
     description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
+      Place Marketing Partners Insights (Blog Posts)
     folder: 'content/insights'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
+    slug: '{{slug}}'
+    summary: '{{title}}
     create: true # Allow users to create new documents in this collection
     editor:
       visualEditing: true
@@ -78,7 +77,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: Drafts
         field: draft
     fields: # all The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: 'string', default: 'article', hidden: true }
+      - {label: "Layout", name: "layout", widget: 'hidden', default: 'article', hidden: true }
       - {label: "Title", name: "title", widget: "string"}
       - {label: 'Draft', name: 'draft', widget: 'boolean', default: false }      
       - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD HH:mm', default: '{{now}}'}
@@ -92,4 +91,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Ref No", name: "refno", widget: "number", required: false},
               {label: "Source", name: "source", widget: "string", required: false},
               {label: "Url", name: "url", widget: "string", required: false },
-              {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}                 
+              {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}  
+    filter:
+          field: "hidden"
+          value: false               

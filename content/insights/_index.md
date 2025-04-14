@@ -1,3 +1,4 @@
 ---
 page: insights
+hidden: true
 ---
