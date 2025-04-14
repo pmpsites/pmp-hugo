@@ -5,7 +5,7 @@ draft: false
 date: 2025-04-14 23:24
 description: How can we be more strategic in our place marketing, to achieve
   measurable marketing success?
-image: https://res.cloudinary.com/pmpartner/image/upload/t_1200widepmp-blog/v1742308690/mercure-hotel-peace-gardens.jpg
+image: https://res.cloudinary.com/pmpartner/image/upload/w_800/station.png
 ---
 ### How can we be more strategic in our place marketing, to achieve measurable marketing success?
 
