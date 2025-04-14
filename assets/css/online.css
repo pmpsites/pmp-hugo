@@ -223,6 +223,11 @@
   font-size: 1.125rem;
   line-height: 1.625rem; /* 144.444% */
   }
+ p {
+    line-height: 1.375rem;
+    font-size: .875rem;
+    margin: 1rem 0;
+ }
   .regular-1, .regular-2,.regular-3{
   color: var(--Brand-Dark);
   font-weight: 400;
@@ -819,7 +824,9 @@
     margin-bottom: 2rem;
     & p{
       color: white;
+      font-size: 1.375rem;
       text-align: center;
+      margin-block: 1rem 0;
     }
   & .reasons {
     margin-inline: auto;
