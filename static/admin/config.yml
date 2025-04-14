@@ -48,8 +48,8 @@ media_library:
 logo_url: https://pmp-hugo.pages.dev/images/logo-sml.svg
 
 
-media_folder: "/img" # Folder where user uploaded files should go
-public_folder: "/img"
+#media_folder: "/img" # Folder where user uploaded files should go
+#public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'insights' # Used in routes, ie.: /admin/collections/:slug/edit
@@ -82,7 +82,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: 'Draft', name: 'draft', widget: 'boolean', default: false }      
       - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD HH:mm', default: '{{now}}'}
       - {label: "Description(used in Insight cards)", name: "description", widget: "text", required: false}
-      - {label: "Hero Image", name: "heroimage", widget: "image", required: false}
+      - {label: "Hero Image", name: "image", widget: "image", required: false}
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}         
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}
       - {label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }

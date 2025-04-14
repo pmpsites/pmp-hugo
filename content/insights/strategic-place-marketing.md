@@ -1,7 +1,7 @@
 ---
 title: More Strategic Place Marketing
 layout: article
-heroimage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
+image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
 description: How can we be more strategic in our place marketing, to achieve measurable marketing success?
 ---
 ### How can we be more strategic in our place marketing, to achieve measurable marketing success?
