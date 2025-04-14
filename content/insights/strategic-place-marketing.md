@@ -1,8 +1,11 @@
 ---
-title: More Strategic Place Marketing
 layout: article
-image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
-description: How can we be more strategic in our place marketing, to achieve measurable marketing success?
+title: More Strategic Place Marketing
+draft: false
+date: 2025-04-14 23:24
+description: How can we be more strategic in our place marketing, to achieve
+  measurable marketing success?
+image: https://res.cloudinary.com/pmpartner/image/upload/t_1200widepmp-blog/v1742308690/mercure-hotel-peace-gardens.jpg
 ---
 ### How can we be more strategic in our place marketing, to achieve measurable marketing success?
 
