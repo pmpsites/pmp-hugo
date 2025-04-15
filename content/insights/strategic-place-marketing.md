@@ -5,7 +5,7 @@ draft: false
 date: 2025-04-14 23:24
 description: How can we be more strategic in our place marketing, to achieve
   measurable marketing success?
-image: https://res.cloudinary.com/pmpartner/image/upload/w_800/station.png
+image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_700,h_394,ar_16:9/v1743437601/townsquare.jpg
 ---
 ### How can we be more strategic in our place marketing, to achieve measurable marketing success?
 
