@@ -13,9 +13,9 @@ At Place Marketing Partners, a big part of our motivation is to make place marke
 
 This emphasis on more strategic place marketing is based on a simple observation - that too much of the place branding and place marketing we see is unstrategic. Place brands are developed with the general aim of improving perceptions of a place. But all too often these exercises don't start in the right place, by asking and answering the right questions, including: 
 
-- Whose perceptions do we want to change? 
-- What do they want from our place?
-- Once we've changed their perceptions, what actions do we want them to take? 
+* Whose perceptions do we want to change? 
+* What do they want from our place?
+* Once we've changed their perceptions, what actions do we want them to take? 
 
 If we don't start here - by understanding our target audiences and their motivations - we’re likely to invest in place branding that pleases us (our organisation or partnership, for example) but is likely to be of little relevance and interest to the businesses and people we need to attract.
 
