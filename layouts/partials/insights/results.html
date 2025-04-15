@@ -63,11 +63,11 @@
                         
           <img src="{{ .Params.image }}" alt="decorative post image">
            
-          <h4><a class="expansive" href="{{ .Permalink }}">{{ .Params.title}}</a></h4>
+          <h4><a class="expansive" href="{{ .RelPermalink }}">{{ .Params.title}}</a></h4>
            
           <p>{{ .Params.description }}</p>
                            
-          <span class="link"><a href="{{ .Permalink }}">Read More</a> <span class="arrow"><img src="/images/solution-arrow_forward.svg"/> </span></span>{{ partial "readingtime.html" . }}
+          <span class="link"><a href="{{ .RelPermalink }}">Read More</a> <span class="arrow"><img src="/images/solution-arrow_forward.svg"/> </span></span>{{ partial "readingtime.html" . }}
                                                
       </li>
     {{ end }}
