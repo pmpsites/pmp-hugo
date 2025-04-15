@@ -1,21 +1,70 @@
+<style>
+  .insights .container #results *{
+  position: unset;
+}
+.cards{
+  position: unset;
+  display: flex;
+  gap: 1rem;
+  & .card{
+    overflow:hidden;
+    position: relative!important;
+    padding:8px;
+    & img{
+      object-fit: contain;
+      width: max-content;     
+    }
+    & h4{
+      padding-block: 0.875rem;
+      & a{
+        color: var(--Brand-Brown);
+      }
+     }
+   & h4 a::after {
+   content: "";
+   position:absolute;
+   inset: 0;
+   z-index: 1;
+ }
+ & readmore{
+  display: inline-block;
+  margin-bottom: 8px;
+ }
+}
+   
+& .card:hover{
+  outline: 2px solid white;
+ }
+ & .card:hover .arrow{
+  transform: translateX(0.8rem);
+  transition: transform 0.3s ease-in-out;
+ }
+ & .card:hover .link a{
+  text-decoration: underline var(--Brand-Orange) 2px; 
+  text-underline-offset: 0.5em;
+  xborder-bottom: 2px solid var(--Brand-Orange);
+ }
+}
+</style>
 <section id="results" class="three-cards text-image bg-grey">
-    
-    <div class="content">
-      <div class="cards">
-        {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "insights" | first 8 ) }}
-          
-          <div class="card">
-            <div class="card-content">                 
-              <img class="" src="{{ .Params.image }}" alt="decorative post image">
-               
-              <h4>{{ .Params.title}}</h4>
-               
-              <p>{{ .Params.description }} </p>
-                               
-              <a href="{{ .Permalink }}"><span class="link">Read More <span class="arrow"><img src="/images/solution-arrow_forward.svg"/> </span></span>{{ partial "readingtime.html" . }}</a>
-            </div>                                       
-          </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
+  
+<div class="content">
+  <ul class="cards">
+
+    {{ range ( where site.RegularPages.ByPublishDate.Reverse "Section" "insights" | first 8 ) }}
+      
+      <li class="card">
+                        
+          <img src="{{ .Params.image }}" alt="decorative post image">
+           
+          <h4><a class="expansive" href="{{ .Permalink }}">{{ .Params.title}}</a></h4>
+           
+          <p>{{ .Params.description }}</p>
+                           
+          <span class="link"><a href="{{ .Permalink }}">Read More</a> <span class="arrow"><img src="/images/solution-arrow_forward.svg"/> </span></span>{{ partial "readingtime.html" . }}
+                                               
+      </li>
+    {{ end }}
+    </ul>
+</div>
+</section>
