@@ -25,7 +25,7 @@ jobs:
                 data: { check_runs: checks },
               } = await github.rest.checks.listForRef({ owner, repo, ref });
 
-              return checks.find((check) => check.app.slug === "cloudflare-pages");
+              return checks.find((check) => check.app.slug === "cloudflare-pages" || check.app.slug === "cloudflare-workers-and-pages");
             };
 
             const createDeployStatus = async (owner, repo, sha, target_url) => {
