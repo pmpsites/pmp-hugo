@@ -2290,7 +2290,7 @@
       align-content: center;
       justify-content: flex-start;
       & .arrow{
-          height: 1.7rem;
+          height: 1.1rem;
        }
     }
     .card:hover img.a{
