@@ -25,4 +25,4 @@ So, strategic place marketing begins with clearly defined and ideally measurable
 
 And being strategic in our place marketing has another important benefit. It helps us to demonstrate a return on our place marketing investments, so all parties involved know we’re delivering value for our organisation, our location, and our place partnership.
 
-dip
+dip dip dip
