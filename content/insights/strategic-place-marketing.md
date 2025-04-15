@@ -24,3 +24,5 @@ The same goes for the 'stories' we tell and the information we share through our
 So, strategic place marketing begins with clearly defined and ideally measurable goals. And it achieves those goals by identifying its target audiences, understanding their needs, and responding to them, so they're more likely to take the actions we want them to take - contacting us or our partners, for example. 
 
 And being strategic in our place marketing has another important benefit. It helps us to demonstrate a return on our place marketing investments, so all parties involved know we’re delivering value for our organisation, our location, and our place partnership.
+
+dip
