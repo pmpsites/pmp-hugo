@@ -1,11 +1,12 @@
 ---
-title: Effective Place Communications
 layout: article
+title: Effective Place Communications
+draft: false
+date: 2025-04-15 23:32
+description: Why are effective place communications vital in delivering
+  ambitious economic development projects?
 image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
-description: Why are effective place communications vital in delivering ambitious economic development projects?
 ---
-
-
 ### Why are effective place communications vital in delivering ambitious economic development projects? (A Cambridge, UK case study).
 
 **In the UK, the university cities of Cambridge and Oxford have been identified as key potential drivers of both regional and national economic growth. But growth means development, and making cities bigger - especially historic ones -  often encounters significant opposition from residents.**
@@ -29,3 +30,5 @@ In high-tech hub locations like Cambridge, these things that make it special are
 All of this highlights the importance of 'bringing the public along' with us. And place marketing, or, more broadly, place communications, is an important part of this process. Just as they are in the design of successful economic development projects, residents and community groups are key stakeholder partners in successful place marketing projects - sharing their local knowledge and insights, and enabling us to tell credible, distinctive, engaging stories to 'external' target audiences including prospective inward investors and residents.
 
 But - and it's here that we can talk about place communications, more widely than place marketing - our residents and communities are also a key target audience in themselves. Keeping them up to date with informative, timely, high quality communications is more than just the polite thing to do. It can be a key part of 'bringing them along', and ensuring the success of ambitious economic development projects.
+
+insight end
