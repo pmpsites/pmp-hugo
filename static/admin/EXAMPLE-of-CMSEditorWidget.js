@@ -1,7 +1,9 @@
 import React from "react";
 import CMS from "netlify-cms";
 // SEE EXAMPLE at https://decapcms.org/docs/custom-widgets/#registereditorcomponent
-// Editor Component HTML5 Video 
+//
+// Editor Component HTML5 Video
+//
 CMS.registerEditorComponent({
     // Internal id of the component
     id: "html5-video",
