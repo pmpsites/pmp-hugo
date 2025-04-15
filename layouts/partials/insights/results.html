@@ -2,13 +2,19 @@
   .insights .container #results *{
   position: unset;
 }
+.three-cards .content {
+        & .cards {
+            & .link {
+                & .arrow {
+                    height: 1.7rem;
+                }
+            }
+        }
+    }
 .cards{
   position: unset;
   display: flex;
   gap: 1rem;
-  & .link .arrow{
-  height: 1.7rem;
- }
   & .card{
     overflow:hidden;
     position: relative!important;
