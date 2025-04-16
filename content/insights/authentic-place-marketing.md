@@ -1,7 +1,7 @@
 ---
 title: Authentic Place Marketing
 layout: article
-image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_786,h_385/gatecrasher
+image: https://res.cloudinary.com/pmpartner/image/upload/v1744820504/ideal.jpg
 description: Authenticity is a word that often crops up in discussions about place marketing, and always in a positive sense.
 ---
 ### How can we promote our authentic place, with authentic place marketing?
