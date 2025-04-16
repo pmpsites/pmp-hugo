@@ -352,71 +352,7 @@
   }
   }
   
-  /*
-  ============ 
-  UTILITY 
-  ============ 
-  */
-  .btn{
-  display: flex;
-  /* padding: 0.625rem 0.625rem 0.5rem 0.625rem; */
-  align-items: center;
-  gap: 0.625rem;
-  font-size: 0.75rem;
-  font-style: normal;
-  font-weight: 700; 
-  line-height: 1.125rem;
-  border:none;
-  cursor:pointer;
-  width:fit-content;
-  }
-
-  a:has(.btnCTA) {
-    text-decoration: none;
-  }
-  .btnCTA {
-  color: white;/*var(--Brand-Brown);*/
-  padding: 1.5rem;
-  border: none;
-  font-weight:700;
-  margin-inline: auto;
-  display: block;
-  }
   
-  .btn-orange{
-  background: var(--Brand-Orange);
-  }
-  
-  .btn-orange:active, .btn-orange:hover{
-  background: #FB511E;
-  cursor: pointer;
-  }
-  
-  .btn-brown{
-  background: var(--Brand-Brown);
-  color: white;
-  padding: 0.4rem 0.625rem; 
-  }
-  
-  .btn-brown:active, .btn-brown:hover{
-  background: linear-gradient(0deg, rgba(252, 125, 87, 0.15) 0%, rgba(252, 125, 87, 0.15) 100%), #522926;
-  }
-  
-  .white{color: #fff;}
-  .brown{color: var(--Brand-Brown);}
-  .orange{color: var(--Brand-Orange);}
-  
-  .btn-icon{
-  display: flex;
-  width: 1.5rem;
-  height: 1.5rem;
-  justify-content: center;
-  align-items: center;
-  }
-  
-  .slogan{
-  margin-bottom: 1.25rem;
-  }
   
   .pmpholder {
   display: grid;
@@ -2482,4 +2418,70 @@
         }
   
   
+  /*
+  ============ 
+  UTILITY 
+  ============ 
+  */
+  .btn{
+    display: flex;
+    /* padding: 0.625rem 0.625rem 0.5rem 0.625rem; */
+    align-items: center;
+    gap: 0.625rem;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 700; 
+    line-height: 1.125rem;
+    border:none;
+    cursor:pointer;
+    width:fit-content;
+    }
   
+    a:has(.btnCTA) {
+      text-decoration: none;
+    }
+    .btnCTA {
+    color: white;/*var(--Brand-Brown);*/
+    padding: 1.5rem;
+    border: none;
+    font-weight:700;
+    margin-inline: auto;
+    display: block;
+    }
+    .bg-grey{
+      background-color: var(--Brand-Grey);
+    }
+    .btn-orange{
+    background: var(--Brand-Orange);
+    }
+    
+    .btn-orange:active, .btn-orange:hover{
+    background: #FB511E;
+    cursor: pointer;
+    }
+    
+    .btn-brown{
+    background: var(--Brand-Brown);
+    color: white;
+    padding: 0.4rem 0.625rem; 
+    }
+    
+    .btn-brown:active, .btn-brown:hover{
+    background: linear-gradient(0deg, rgba(252, 125, 87, 0.15) 0%, rgba(252, 125, 87, 0.15) 100%), #522926;
+    }
+    
+    .white{color: #fff;}
+    .brown{color: var(--Brand-Brown);}
+    .orange{color: var(--Brand-Orange);}
+    
+    .btn-icon{
+    display: flex;
+    width: 1.5rem;
+    height: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .slogan{
+    margin-bottom: 1.25rem;
+    }
