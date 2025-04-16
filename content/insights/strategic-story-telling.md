@@ -2,7 +2,6 @@
 layout: article
 title: Strategic Story Telling
 draft: false
-date: 2025-04-14 18:58
 description: Which stories should we tell through our place marketing, and why
   should we tell them?
 image: https://res.cloudinary.com/pmpartner/image/upload/w_700/WLDC.jpg

@@ -81,7 +81,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: 'hidden', default: 'article', hidden: true }
       - {label: "Title", name: "title", widget: "string"}
       - {label: 'Draft', name: 'draft', widget: 'boolean', default: false }      
-      - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD HH:mm', default: '{{now}}'}
+      - {label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DDTHH:mm:ssZ[Z]', default: '{{now}}'}
       - {label: "Description(used in Insight cards)", name: "description", widget: "text", required: false}
       - {label: "Hero Image", name: "image", widget: "image", required: false }
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}         
