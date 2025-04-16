@@ -849,15 +849,7 @@
   
   }
   
-  .ig-icon:hover{
-    content: url('/icons/ig-hover.svg')
-  }
-  .fb-icon:hover{
-    content: url('/icons/fb-hover.svg')
-  }
-  .x-icon:hover{
-    content: url('/icons/x-hover.svg')
-  }
+
   .li-icon:hover{
     content: url('/icons/li-hover.svg')
   }
@@ -1363,11 +1355,11 @@
   & .in-herocard{
     grid-row: 8 / span 1;
   }
-  }*/
+  }
   .article .in-heroimg img{
   content: url('https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_385/gatecrasher');
   }
-  
+  */
   } /* END MEDIA QUERY TABLET */
   
   /* 
@@ -1643,9 +1635,11 @@
     color: var(--Brand-Brown);
   }
   }
+  /*
   .article .in-heroimg img{
     content: url('https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_540,h_360/gatecrasher');
     }
+  */
   article{
   background-color: white;
   padding-inline: 1.875rem;

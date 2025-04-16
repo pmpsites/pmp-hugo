@@ -5,10 +5,8 @@ draft: false
 date: 2025-04-15T09:34:00+01:00
 description: How can we be more strategic in our place marketing, to achieve
   measurable marketing success?
-image: https://res.cloudinary.com/pmpartner/image/upload/w_800/station.png
+image: https://res.cloudinary.com/pmpartner/image/upload/467.jpg
 ---
-### How can we be more strategic in our place marketing, to achieve measurable marketing success?
-
 At Place Marketing Partners, a big part of our motivation is to make place marketing more strategic. This means ensuring that all our place marketing activities are focused on achieving defined, and ideally measurable, marketing goals. Ultimately, for the places we're promoting, it means attracting more of the right kinds of people and businesses, with the economic and social benefits that follow.
 
 This emphasis on more strategic place marketing is based on a simple observation - that too much of the place branding and place marketing we see is unstrategic. Place brands are developed with the general aim of improving perceptions of a place. But all too often these exercises don't start in the right place, by asking and answering the right questions, including: 
