@@ -697,7 +697,7 @@
       font-size: 0.875rem;
       font-weight: 700;
       line-height: 2.375rem;
-      justify-content: space-between;
+      xjustify-content: space-between;
       cursor: pointer;
     }
     & .link a{
@@ -1096,10 +1096,10 @@
   }
     & .article-title h1{
       color: var(--Brand-Brown, #522926);
-      font-size: 2.875rem;
+      xfont-size: 2.875rem;
       font-style: normal;
       font-weight: 700;
-      line-height: 3.375rem; /* 117.391% */
+      xline-height: 3.375rem; /* 117.391% */
     }
     & .article-tags{ 
       display: flex;
