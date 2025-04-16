@@ -14,7 +14,9 @@
               <input type="checkbox" id="partner-{{ $counter }}" class="toggle-checkbox">
                <div class="drawer">
               
-                 <label for="partner-{{ $counter }}" class="link"><div class="arrow"><img src="/images/open.svg"></div><div>{{ .name }}</div></label>
+                 <label for="partner-{{ $counter }}" class="link"><div class="arrow"><svg width="14" height="14" viewBox="0 0 14 14" fill="#522926" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M6 14V8H0V6H6V0H8V6H14V8H8V14H6Z" fill="#522926"/>
+                  </svg></div><div>{{ .name }}</div></label>
               
                  <div class="solutiontext">{{ .text }}</div>
                </div>

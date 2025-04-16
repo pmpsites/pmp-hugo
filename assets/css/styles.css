@@ -2227,7 +2227,7 @@
       color: var(--Neutrals-900, #2D4149);
       font-size: 0.875rem;
       font-weight: 700;
-      xline-height: 1.375rem;
+        line-height: 1.375rem;
       cursor: pointer;
       align-content: center;
       justify-content: flex-start;
