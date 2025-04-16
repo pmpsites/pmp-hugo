@@ -2,6 +2,7 @@
 layout: article
 title: More Strategic Place Marketing
 draft: false
+date: 2025-04-15T09:34:00+01:00
 description: How can we be more strategic in our place marketing, to achieve
   measurable marketing success?
 image: https://res.cloudinary.com/pmpartner/image/upload/w_800/station.png
