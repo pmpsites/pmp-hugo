@@ -1,7 +1,7 @@
 ---
 title: Effective Place Communications
 layout: article
-image: https://res.cloudinary.com/pmpartner/image/upload/v1744817525/communicate.jpg
+image: https://res.cloudinary.com/pmpartner/image/upload/w_768/communicate.jpg
 description: Why are effective place communications vital in delivering ambitious economic development projects?
 ---
 

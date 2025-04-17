@@ -5,7 +5,7 @@ draft: false
 date: 2025-04-14T09:34:00+01:00
 description: Which stories should we tell through our place marketing, and why
   should we tell them?
-image: https://res.cloudinary.com/pmpartner/image/upload/w_700/WLDC.jpg
+image: https://res.cloudinary.com/pmpartner/image/upload/w_768/WLDC.jpg
 ---
 ### Which stories should we tell through our place marketing, and why should we tell them?
 **Places, whether they be towns, cities or regions, offer a wealth of stories from diverse perspectives. But which ones should we choose to tell through our place marketing, and why?** 
