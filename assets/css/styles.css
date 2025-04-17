@@ -780,7 +780,7 @@
     }
     list-style-position: inside;
     & li{
-    font-size: 1.375rem;
+    font-size: 1rem;/*1.375rem;*/
     padding:  0.625rem;
     color: white;
     text-align: center;
@@ -1132,7 +1132,10 @@
     font-size: 1rem;
     line-height: 1.5rem;
     font-weight: 700;
-}
+  }
+  article ul{
+    margin-left: 1.5rem;
+  }
   article .pull-quote{
     display: grid;
     grid-template-columns: auto 1fr auto;
