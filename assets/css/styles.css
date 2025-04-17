@@ -2398,8 +2398,8 @@
           }
         
           .insights .card{
-            width: 31%;
-            min-width: 31%;
+            xwidth: 31%;
+            xmin-width: 31%;
             & a{
               text-decoration: none;
               & :hover .arrow{

@@ -4,6 +4,8 @@
 }
 .three-cards .content {
         & .cards {
+          container-type: normal;
+          container-name: thecards;
             & .link {
                 & .arrow {
                     height: 1.7rem;
@@ -11,12 +13,15 @@
             }
         }
     }
+
 .cards{
   position: unset;
   display: flex;
   gap: 1rem;
   & .card{
-    max-width: max(30%,420px);
+    @media (min-width: 48rem){
+      width:48%;
+    }
     overflow:hidden;
     position: relative!important;
     padding:8px;
@@ -39,7 +44,7 @@
  }
 
 }
-   
+
 & .card:hover{
   outline: 2px solid white;
  }
@@ -53,6 +58,7 @@
   xborder-bottom: 2px solid var(--Brand-Orange);
  }
 }
+
 </style>
 <section id="results" class="three-cards text-image bg-grey">
   
