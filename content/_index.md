@@ -2,7 +2,7 @@
 page: home
 title: Place Marketing Partners - Full Service Place Marketing Solution. Save Time. Save Budget.
 socialImage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_960/portsmouth-ext.jpg
-seoDescription: Place Marketing Partners. Full Service Place Marketing Solution. Save Time. Save Budget.
+seoDescription: Full Service Place Marketing Solution. Save Time. Save Budget. Place Marketing Partners.
 hero:
   display: true
   heading: Place marketing to influence hearts and minds
