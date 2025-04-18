@@ -1,5 +1,27 @@
 <div class="hero">
-    <div class="heroimg"><img src=""/></div>
+    <div class="heroimg">
+        <!--<img src=""/>-->
+        <picture>
+            <source
+              srcset="https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800/portsmouth-ext.jpg"
+              media="(min-width: 90rem)"
+              width="1440"
+              height="800"
+            />
+            <source
+              srcset="https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_768,h_425/portsmouth-ext.jpg"
+              media="(min-width: 48rem) and (max-width: 89.99rem)"
+              width="768"
+              height="425"
+            />
+            <img
+              src="https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_412,h_228/portsmouth-ext.jpg"
+              alt="Portsmouth"
+              width="412"
+              height="228"
+            />
+          </picture>
+    </div>
     <div class="herocard">
         <img class="slogan" src="/images/title.svg" alt="Place marketing to influence hearts and minds. Our proposition."/>
         <p class="herotext">{{ .Params.hero.blurb }}</p>
