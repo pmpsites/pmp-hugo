@@ -2446,7 +2446,7 @@
       text-decoration: none;
     }
     .btnCTA {
-    color: white;/*var(--Brand-Brown);*/
+    color: var(--Brand-Brown); /* white; */
     padding: 1.5rem;
     border: none;
     font-weight:700;
