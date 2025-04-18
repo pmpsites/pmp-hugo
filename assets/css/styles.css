@@ -1490,7 +1490,7 @@
   }
   nav button{
   display: flex;
-  padding: 0.9375rem 1.25rem 0.75rem 1.25rem;
+  padding: 1rem 1.25rem 1rem;/*padding: 0.9375rem 1.25rem 0.75rem 1.25rem;*/
   align-items: center;
   gap: 0.625rem;
   max-width: fit-content;
