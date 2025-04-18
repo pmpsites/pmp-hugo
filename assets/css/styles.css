@@ -557,7 +557,7 @@
   }
   .heroimg img{
   object-fit:cover;
-  content: url('https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1024/portsmouth-ext.jpg')
+  /*content: url('https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1024/portsmouth-ext.jpg')*/
   }
   
   .herocard{

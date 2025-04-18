@@ -7,10 +7,12 @@ hero:
   display: true
   heading: Place marketing to influence hearts and minds
   blurb: We partner with places to achieve measurable marketing success - transforming perceptions and informing choices to attract more people and businesses.
-  heroImg: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_960/portsmouth-ext.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800/portsmouth-ext.jpg
+  imgalt: A decorative image. Portsmouth Waterfront and the Spinnaker Tower
 challenge:
   display: true
   image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600/gardentown.jpg
+  imgalt: A decorative image. An ariel view of Couldson in the county of Surrey, United Kingdom
   heading: Rising to the place marketing challenge.
   copy: 
        - paragraph: > 
@@ -24,6 +26,7 @@ challenge:
 approach:
   display: true
   image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600/townsquare.jpg
+  imgalt: A decorative image. A group of friends in a town square enjoying the ambiance.
   heading: A proven strategic approach.
   copy: 
        - paragraph: >
@@ -34,6 +37,7 @@ approach:
 solution:
   display: true
   image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_900,h_600/rotterdam.jpg
+  imgalt: A decorative image. A view of Rotterdam in the Netherlands
   heading: A unique, full service place marketing solution.
   copy:
        - paragraph: >
