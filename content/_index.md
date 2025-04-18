@@ -7,7 +7,7 @@ hero:
   display: true
   heading: Place marketing to influence hearts and minds
   blurb: We partner with places to achieve measurable marketing success - transforming perceptions and informing choices to attract more people and businesses.
-  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800,f_auto,q_auto:low/portsmouth-ext.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800,f_auto/portsmouth-ext.jpg
   imgalt: A decorative image. Portsmouth Waterfront and the Spinnaker Tower
 challenge:
   display: true
