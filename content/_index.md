@@ -1,17 +1,17 @@
 ---
 page: home
 title: Place Marketing Partners - Full Service Place Marketing Solution. Save Time. Save Budget.
-socialImage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_960,f_auto/portsmouth-ext.jpg
+socialImage: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_960,f_auto,q_auto:low/portsmouth-ext.jpg
 seoDescription: Full Service Place Marketing Solution. Save Time. Save Budget. Place Marketing Partners.
 hero:
   display: true
   heading: Place marketing to influence hearts and minds
   blurb: We partner with places to achieve measurable marketing success - transforming perceptions and informing choices to attract more people and businesses.
-  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800,f_auto/portsmouth-ext.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_north,w_1440,h_800,f_auto,q_auto:low/portsmouth-ext.jpg
   imgalt: A decorative image. Portsmouth Waterfront and the Spinnaker Tower
 challenge:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto/gardentown.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto,q_auto:low/gardentown.jpg
   imgalt: A decorative image. An ariel view of Couldson in the county of Surrey, United Kingdom
   heading: Rising to the place marketing challenge.
   copy: 
@@ -25,7 +25,7 @@ challenge:
   buttontext: Book your free online consultation now.
 approach:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto/townsquare.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto,q_auto:low/townsquare.jpg
   imgalt: A decorative image. A group of friends in a town square enjoying the ambiance.
   heading: A proven strategic approach.
   copy: 
@@ -36,7 +36,7 @@ approach:
   buttontext: Book your free online consultation now.
 solution:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_900,h_600,f_auto/rotterdam.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_900,h_600,f_auto,q_auto:low/rotterdam.jpg
   imgalt: A decorative image. A view of Rotterdam in the Netherlands
   heading: A unique, full service place marketing solution.
   copy:
@@ -68,14 +68,14 @@ results:
   copy: > 
         We've partnered with cities, regions, developers and communities to rise to their place marketing challenges - with proven results.
   cards:
-    - image: https://res.cloudinary.com/pmpartner/image/upload/w_340,h_340,f_auto/efdd2808efa95aa679b29e3ec83b8e76.jpg
+    - image: https://res.cloudinary.com/pmpartner/image/upload/w_340,h_340,f_auto,q_auto:low/efdd2808efa95aa679b29e3ec83b8e76.jpg
       heading: Blackpool, UK
       challenge: >
                 Blackpool is famous as a visitor destination, but it’s a perception that obscures a much richer identity and a wider range of place benefits. 
       solution-heading: for Blackpool we
       solution: >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum ut delectus, odio iure unde incidunt. Soluta at tempore ea non dolores, voluptas aperiam, quasi, quas repellat vero asperiores expedita?
-    - image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_340,h_340,f_auto/cdee23f33defabbd64a9398f063761b3.jpg
+    - image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_340,h_340,f_auto,q_auto:low/cdee23f33defabbd64a9398f063761b3.jpg
       heading: Bicester Garden Town, UK
       challenge: > 
                  Bicester Garden Town is a new, sustainable community near Oxford. This new community requires an entirely bespoke place proposition.Our focused, strategic approach creates clarity out of complexity, to achieve defined place marketing goals.
@@ -84,7 +84,7 @@ results:
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum ut delectus, odio iure unde incidunt. Soluta at tempore ea non dolores, voluptas aperiam, quasi, quas repellat vero asperiores expedita?
 
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ipsum ut delectus, odio iure unde incidunt. Soluta at tempore ea non dolores, voluptas aperiam, quasi, quas repellat vero asperiores expedita?
-    - image: https://res.cloudinary.com/pmpartner/image/upload/w_340,h_340,f_auto/ca3ec0a95ed377b4e86ce9ba74d341dd.jpg
+    - image: https://res.cloudinary.com/pmpartner/image/upload/w_340,h_340,f_auto,q_auto:low/ca3ec0a95ed377b4e86ce9ba74d341dd.jpg
       heading: Central Bedfordshire, UK
       challenge: >
                  Central Bedfordshire is a key growth area at the heart of the Oxford-Cambridge region - but it requires recognition and a defined place proposition.

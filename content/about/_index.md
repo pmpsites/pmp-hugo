@@ -2,7 +2,7 @@
 page: about
 layout: about
 hero:
-    image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_1440,h_468/beyond-midland
+    image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_1440,h_468,f_auto,q_auto:low/beyond-midland
     heading: About Place Marketing Partners.
     text: Place Marketing Partners is a collaboration between two established marketing companies with wide-ranging, complementary expertise.
 partners:
