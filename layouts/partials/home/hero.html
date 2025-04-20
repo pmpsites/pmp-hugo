@@ -3,7 +3,7 @@
         <!--<img src=""/>-->
         <picture>
             <source
-              srcset="{{ .Params.hero.image }}"
+              srcset='{{ replace .Params.hero.image "/upload/" "/upload/c_fill,g_north,w_1440,h_800,q_auto,f_auto/" }}'
               media="(min-width: 90rem)"
               width="1440"
               height="800"
