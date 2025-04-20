@@ -9,19 +9,19 @@
               height="800"
             />
             <source
-              srcset='{{ replace .Params.hero.image "w_1440,h_800" "w_768,h_425,q_auto:low" }}'
+              srcset='{{ replace .Params.hero.image "/upload/" "/upload/c_fill,g_north,w_768,h_425,q_auto,f_auto/" }}'
               media="(min-width: 48rem) and (max-width: 89.99rem)"
               width="768"
               height="425"
             />
             <source
-            srcset='{{ replace .Params.hero.image "w_1440,h_800" "w_600,h_332,q_auto:low" }}'
+            srcset='{{ replace .Params.hero.image "/upload/" "/upload/c_fill,g_north,w_600,h_332,q_auto,f_auto/" }}' 
             media="(min-width: 420px) and (max-width: 600px)"
             width="600"
             height="332"
           />
             <img
-              src='{{ replace .Params.hero.image "w_1440,h_800" "w_412,h_228,q_auto:low" }}'
+              src='{{ replace .Params.hero.image "/upload/" "/upload/c_fill,g_north,w_412,h_228,q_auto,f_auto/" }}' 
               alt="{{ .Params.hero.imgalt}}"
               width="412"
               height="228"
