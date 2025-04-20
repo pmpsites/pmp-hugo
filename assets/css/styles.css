@@ -465,11 +465,13 @@
       justify-content: space-between;
     }
   
-    nav button{
+    nav .button{
       display: flex;
       padding: 0.625rem 0.625rem 0.5rem 0.625rem;
       align-items: center;
       gap: 0.625rem;
+      font-size: 1rem;
+      text-decoration: none;
     }
   
   
@@ -1495,7 +1497,7 @@
   #getintouch{
   grid-column-start: 16;
   }
-  nav button{
+  nav .button{
   display: flex;
   padding: 1rem 1.25rem 1rem;/*padding: 0.9375rem 1.25rem 0.75rem 1.25rem;*/
   align-items: center;
