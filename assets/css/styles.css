@@ -1959,12 +1959,14 @@
   .challenge, .approach, .solution{
     padding-block: 7.5rem;
   }
+  /*
   .challenge, .solution{
   background: var(--Brand-Grey);
   }
   .approach{
   background: var(--Brand-Grey-Light);
   }
+  */
   
   .textandimage img{
   max-width: 57.5rem;
@@ -2466,9 +2468,7 @@
     margin-inline: auto;
     display: block;
     }
-    .bg-grey{
-      background-color: var(--Brand-Grey);
-    }
+ 
     .btn-orange{
     background: var(--Brand-Orange);
     }
@@ -2487,7 +2487,8 @@
     .btn-brown:active, .btn-brown:hover{
     background: linear-gradient(0deg, rgba(252, 125, 87, 0.15) 0%, rgba(252, 125, 87, 0.15) 100%), #522926;
     }
-    
+    .lightgrey-bg{background-color: var(--Brand-Grey-Light)}
+    .darkgrey-bg{background-color: var(--Brand-Grey)}
     .white{color: #fff;}
     .brown{color: var(--Brand-Brown);}
     .orange{color: var(--Brand-Orange);}
