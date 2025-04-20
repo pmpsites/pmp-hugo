@@ -1957,7 +1957,7 @@
   width: 100%;
   }
   .challenge, .approach, .solution{
-    padding-block: 7.5rem;
+    padding-block: var(--space-desktop-xlg);
   }
   /*
   .challenge, .solution{
