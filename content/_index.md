@@ -11,7 +11,7 @@ hero:
   imgalt: A decorative image. Portsmouth Waterfront and the Spinnaker Tower
 challenge:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto,q_auto:low/gardentown.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/gardentown.jpg
   imgalt: A decorative image. An ariel view of Couldson in the county of Surrey, United Kingdom
   heading: Rising to the place marketing challenge.
   copy: 
@@ -25,7 +25,7 @@ challenge:
   buttontext: Book your free online consultation now.
 approach:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/w_900,h_600,f_auto,q_auto:low/townsquare.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/townsquare.jpg
   imgalt: A decorative image. A group of friends in a town square enjoying the ambiance.
   heading: A proven strategic approach.
   copy: 
@@ -36,7 +36,7 @@ approach:
   buttontext: Book your free online consultation now.
 solution:
   display: true
-  image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_900,h_600,f_auto,q_auto:low/rotterdam.jpg
+  image: https://res.cloudinary.com/pmpartner/image/upload/rotterdam.jpg
   imgalt: A decorative image. A view of Rotterdam in the Netherlands
   heading: A unique, full service place marketing solution.
   copy:

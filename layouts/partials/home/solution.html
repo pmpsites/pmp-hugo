@@ -1,7 +1,32 @@
 <section id="solution" class="solution">
   <div class="text-image ">
       <div class="text-image-right-img">
-        <img class="base-image" src="{{ .Params.solution.image }}" alt="{{ .Params.solution.imgalt }}">              
+        <picture>
+          <source
+            srcset='{{ replace .Params.solution.image "/upload/" "/upload/c_fill,g_north,w_900,h_600,q_auto,f_auto/" }}'
+            media="(min-width: 90rem)"
+            width="900"
+            height="600"
+          />
+          <source
+            srcset='{{ replace .Params.solution.image "/upload/" "/upload/c_fill,g_north,w_768,h_425,q_auto,f_auto/" }}'
+            media="(min-width: 48rem) and (max-width: 89.99rem)"
+            width="768"
+            height="425"
+          />
+          <source
+          srcset='{{ replace .Params.solution.image "/upload/" "/upload/c_fill,g_north,w_600,h_332,q_auto,f_auto/" }}' 
+          media="(min-width: 420px) and (max-width: 600px)"
+          width="600"
+          height="332"
+        />
+          <img
+            src='{{ replace .Params.solution.image "/upload/" "/upload/c_fill,g_north,w_412,h_228,q_auto,f_auto/" }}' 
+            alt="{{ .Params.hero.imgalt}}"
+            width="412"
+            height="228"
+          />
+        </picture>             
       </div>
       <div class="text-image-card right">
         <div class="text-image-card-content">
