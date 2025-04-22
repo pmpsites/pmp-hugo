@@ -64,18 +64,8 @@ async function handleRequest({ request, env }) {
         },
             "to": [
             {
-              "email": "nick@place-marketing.com", "name": "Nick Smillie"
+              "email": "dklongley@place-marketing.com", "name": "Dave Longley"
             }             
-          ],
-          "cc": [
-              {
-                "email": "simon@place-marketing.com", "name": "Simon Tomlinson"
-              }
-            ],            
-            "bcc": [
-            {
-              "email": "dklongley@gmail.com", "name": "Dind"
-            }
           ],
         "subject": "place-marketing "+formreceived.sender+" request",
         "text": bodyofemail, //"url.pathname "+requrl+" the request method was"+request.method+" you submitted the following email address "+formReceived.fields.email+" hidden name of the form "+formReceived.fields.sender,
