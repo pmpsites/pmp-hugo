@@ -13,7 +13,7 @@ class ElementHandler {
     // An incoming element, such as `div`
     //console.log(`Incoming element: ${element.tagName}`);
     // replace form with a   
-      const thanksmsg = `<p>${this.options.name} thanks for submitting the form. One of the team will contact you.</p>`
+      const thanksmsg = `<p>${this.options.name} thanks for submitting the form. One of the team will contact you.</p><p><a href="https://place-marketing.com">Continue</a></p>`
       element.replace(thanksmsg, { html: true })
   }
 }
