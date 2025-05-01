@@ -15,7 +15,7 @@ challenge:
   imgalt: A decorative image. An ariel view of Couldson in the county of Surrey, United Kingdom
   heading: Rising to the place marketing challenge.
   copy: 
-       - paragraph: > 
+       - paragraph: >  
                  Place marketing can transform locations. But it also presents unique challenges:
        - paragraph: > 
                  Attracting businesses, talent, new residents and visitors - distinct audiences with different needs and priorities. Standing out from competitor locations; managing diverse stakeholders; and demonstrating tangible marketing success.    

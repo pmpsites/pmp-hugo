@@ -91,7 +91,7 @@ async function handleRequest({ request, env }) {
       if(url.port !== '80'){ redirecturl = redirecturl +':'+url.port }
       //console.log('sender = '+reqBody['sender']);
       const templateurl = redirecturl+'/'+reqBody['sender']+".html";
-      //console.log('templateurl = '+templateurl);
+      console.log('templateurl = '+templateurl);
       const thankyou = await fetch(templateurl);
       const options = {"type":reqBody['sender'],"useremail":reqBody['email'],"name":reqBody['name']}
       return new HTMLRewriter()
