@@ -88,7 +88,8 @@ async function handleRequest({ request, env }) {
       const url = new URL(request.url)
       //console.log("url hostname"+url.hostname)
       var redirecturl = url.protocol+'//'+url.hostname
-      if(url.port !== '80'){ redirecturl = redirecturl +':'+url.port }
+      console.log('port = '+url.port);
+      //if(url.port !== '80'){ redirecturl = redirecturl +':'+url.port }
       //console.log('sender = '+reqBody['sender']);
       const templateurl = redirecturl+'/'+reqBody['sender']+".html";
       console.log('templateurl = '+templateurl);
