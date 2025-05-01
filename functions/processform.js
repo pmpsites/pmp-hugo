@@ -88,10 +88,10 @@ async function handleRequest({ request, env }) {
       const url = new URL(request.url)
       //console.log("url hostname"+url.hostname)
       var redirecturl = url.protocol+'//'+url.hostname
-      console.log('port = '+url.port);
+      //console.log('port = '+url.port);
       //if(url.port !== '80'){ redirecturl = redirecturl +':'+url.port }
       //console.log('sender = '+reqBody['sender']);
-      const templateurl = redirecturl+'/'+reqBody['sender']+".html";
+      const templateurl = redirecturl+'/'+reqBody['sender'];//+".html";
       console.log('templateurl = '+templateurl);
       const thankyou = await fetch(templateurl);
       const options = {"type":reqBody['sender'],"useremail":reqBody['email'],"name":reqBody['name']}
