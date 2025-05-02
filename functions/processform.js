@@ -83,6 +83,7 @@ async function handleRequest({ request, env }) {
         })
     };
     if (request.method === "POST") {
+      console.log('request.cf = '+JSON.stringify(request.cf))
       const reqBody = await readRequestBody(request);
       const mailersendresponse = await sendemailtobackoffice(request, reqBody) 
       const url = new URL(request.url)
