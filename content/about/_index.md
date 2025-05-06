@@ -14,7 +14,7 @@ partners:
     partner:
          - name: Clarity
            text: >
-                 Clarity are leaders in inward investment marketing. They promote locations utilising data-supported value propositions, specialist content, and advanced inbound marketing techniques - to attract more investing businesses and key personnel.
+                 Clarity are leaders in inward investment marketing. We promote locations utilising data-supported value propositions, specialist content, and advanced inbound marketing techniques - to attract more investing businesses and key personnel.
          - name: Diva Creative
            text: >
                  Diva Creative is a full-service agency specialising in creative communications to influence behaviour - including the places people choose to live, work and visit. Key capabilities include changing place perceptions and sustainability themes. 

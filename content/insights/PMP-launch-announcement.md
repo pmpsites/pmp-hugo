@@ -1,12 +1,12 @@
 ---
 layout: article
-title: Place Marketing Partners launch announcement
+title: Place Marketing Partners launched
 draft: false
 date: 2025-04-16T09:31:00+01:00
 description: Clarity, the inward investment marketing specialists, and Diva
   Creative, the full-service creative agency, have announced the launch of Place
   Marketing Partners
-image: https://res.cloudinary.com/pmpartner/image/upload/w_768/trumpets
+image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/beyond-midland
 ---
 **Clarity**, the inward investment marketing specialists, and **Diva Creative**, the full-service creative agency, have announced the launch of Place Marketing Partners, providing a comprehensive, strategic place marketing solution for clients including local authorities, regional agencies, developers and strategic economic development projects.
 
@@ -24,7 +24,7 @@ Amanda Pearce, Director at **Diva Creative**, said:
 
 "Together we have the expertise to manage complex partnership projects, address the full range of place marketing audiences, and develop powerful place brands using outstanding creative content." 
 
-Working separately or together, Clarity and Diva have delivered place marketing services for a range of clients and projects in the UK including Blackpool, Lincolnshire, Bicester Garden Town, Sheffield City Region, \[South Yorkshire?] and Central Bedfordshire. 
+Working separately or together, Clarity and Diva have delivered place marketing services for a range of clients and projects in the UK including Blackpool, Lincolnshire, Bicester Garden Town, Sheffield City Region and Central Bedfordshire. 
 
 The launch of the Place Marketing Partners brand and service marks the formal integration of their place marketing offer. According to Amanda Pearce:
 

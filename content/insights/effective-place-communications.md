@@ -1,7 +1,7 @@
 ---
 title: Effective Place Communications
 layout: article
-image: https://res.cloudinary.com/pmpartner/image/upload/w_768/communicate.jpg
+image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/Corpus_Christi_College_Cambridge__UK
 description: Why are effective place communications vital in delivering ambitious economic development projects?
 ---
 
@@ -12,7 +12,7 @@ description: Why are effective place communications vital in delivering ambitiou
 
 **So, what's the role of effective place marketing, or, more broadly, place communications, in enabling economic development, and bringing residents along with sustainable urban expansion projects?**
 
-In case we ever forget it, the Cambridge example highlights the interconnectedness of inward investment and talent attraction with strategic economic development. In Cambridge, this means addressing capacity constraints in areas including housing, lab space, roads, water and power supplies, as outlined in a recent Financial Times Big Read article. 
+In case we ever forget it, the Cambridge example highlights the interconnectedness of inward investment and talent attraction with strategic economic development. In Cambridge, this means addressing capacity constraints in areas including housing, lab space, roads, water and power supplies, as outlined in a [recent Financial Times Big Read article](https://www.ft.com/content/baa5d2a1-2e4b-4c73-9d1c-38c3613f0c8e). 
 
 The FT compares Cambridge, UK, with its namesake in Massachusetts, USA, highlighting the fact that constraints on development have historically prevented the UK city (and the surrounding region) from achieving the growth and agglomeration effects achieved in international competitor, high-tech cluster locations.
 

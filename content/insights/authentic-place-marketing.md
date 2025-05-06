@@ -26,3 +26,9 @@ The challenge here is this: ask a hundred people to describe it and you'll get a
 
 
 A good starting point is to accept that places - whether they be cities, towns or regions - are inherently diverse and multi-faceted. Different individuals and groups of people experience them in different ways, and have contrasting ideas of what they're really like, encompassing both positive and negative qualities. Therefore, to develop and tell engaging stories about the place as it really is, we need to listen to these different perspectives.
+
+#### A range of authentic narratives
+
+It's important to remember this essential diversity when we consider the management and control of place marketing projects. Local government bodies often take the lead, and they can make the mistake of thinking that they are the city (or town, or region); that the place they see, from their perspective, based on their priorities and objectives, is the real one - or perhaps the approved one - that should be promoted through place marketing campaigns. As political and administrative bodies, local authorities are likely to be cautious, with a natural inclination towards a particular, official narrative. This is one, important perspective. But if it dominates, it can fail to reflect a place’s richness and variety - a wealth of unofficial stories that often resonate with target audiences.
+
+In conclusion, if we want to discover and tell authentic stories about an authentic place, we need to see it from a range of perspectives. Which means building, managing and engaging effectively with a diverse stakeholder partnership.
