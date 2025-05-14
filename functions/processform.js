@@ -82,7 +82,7 @@ async function handleRequest({ request, env }) {
           }
         })
 
-        const sheetreply = await fetch(`https://script.google.com/macros/s/1m1ECen6U05AWWh12Lp16fz4pY4lPZsQS8e5T8GZjR7H3zFQwvMzJ6Cr1/exec`,{
+        const sheetreply = await fetch(`https://script.google.com/macros/s/AKfycbyN-erdNmd7_HbasLvPuDgJDbO_JkU2q7jy2ShCag3VdfS5G75x7vU-yxZ2QVXkaNxJvg/exec`,{
           method : 'POST',
           body: JSON.stringify(formreceived),
           headers: {
