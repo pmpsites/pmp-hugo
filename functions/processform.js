@@ -81,6 +81,15 @@ async function handleRequest({ request, env }) {
             
           }
         })
+
+        const sheetreply = await fetch(`https://script.google.com/macros/s/AKfycbyN-erdNmd7_HbasLvPuDgJDbO_JkU2q7jy2ShCag3VdfS5G75x7vU-yxZ2QVXkaNxJvg/exec`,{
+          method : 'POST',
+          body: JSON.stringify(formreceived),
+          headers: {
+            'Content-Type': 'application/json',
+          }
+        }
+      )
     };
     if (request.method === "POST") {
       console.log('request.cf = '+JSON.stringify(request.cf))
