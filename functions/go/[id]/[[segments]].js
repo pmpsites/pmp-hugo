@@ -1,6 +1,6 @@
 export async function onRequestGet({ params, request, env }) {
     // Extract the 'id' parameter from the URL path.
-    // For example, if the URL is https://example.com/go/1/li, params.id will be '1'.
+    // For example, if the URL is https://example.com/go/1/li, params.id will be '1'. 
     
     const { id } = params;
 
