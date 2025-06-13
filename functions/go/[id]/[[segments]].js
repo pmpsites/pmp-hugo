@@ -15,8 +15,8 @@ export async function onRequestGet({ params, request, env }) {
     // Parse the source and contact_id from the segments.
     if (segments.length > 0) {
         source = segments[0]; // The first segment is the source (e.g., 'li', 'em')
-        if (source === 'em' && segments.length > 1) {
-            contactId = segments[1]; // If source is 'em', the second segment is the contact ID
+        if (segments.length > 1) {
+            contactId = segments[1]; // If present the second segment is the contact ID
         }
     }
 
