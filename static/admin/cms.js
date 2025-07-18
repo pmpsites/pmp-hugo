@@ -262,4 +262,4 @@ const InsightPreview = createClass({
 });
 
 CMS.registerPreviewTemplate("insights", InsightPreview);
-CMS.registerPreviewStyle('https://place-marketing.com/css/styles.css'); 
+CMS.registerPreviewStyle('https://place-marketing.com/css/styles.min.css'); 
