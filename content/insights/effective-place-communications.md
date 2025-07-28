@@ -1,11 +1,12 @@
 ---
-title: Effective Place Communications
 layout: article
+title: Effective Place Communications
+draft: false
+date: 2025-04-28T09:12:00+01:00
+description: Why are effective place communications vital in delivering
+  ambitious economic development projects?
 image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/Corpus_Christi_College_Cambridge__UK
-description: Why are effective place communications vital in delivering ambitious economic development projects?
 ---
-
-
 ### Why are effective place communications vital in delivering ambitious economic development projects? (A Cambridge, UK case study).
 
 **In the UK, the university cities of Cambridge and Oxford have been identified as key potential drivers of both regional and national economic growth. But growth means development, and making cities bigger - especially historic ones -  often encounters significant opposition from residents.**
@@ -17,6 +18,8 @@ In case we ever forget it, the Cambridge example highlights the interconnectedne
 The FT compares Cambridge, UK, with its namesake in Massachusetts, USA, highlighting the fact that constraints on development have historically prevented the UK city (and the surrounding region) from achieving the growth and agglomeration effects achieved in international competitor, high-tech cluster locations.
 
 Part of the answer is for Cambridge (like Oxford) to be a driver of growth in its hinterland - the Oxford-Cambridge Arc. But the city itself must also expand to overcome existing constraints and to achieve its full economic potential - both for its residents and the UK as a whole. The challenge will be to do this in a sensitive and sustainable way, ensuring that Cambridge remains a 'happy city'.
+
+{{< figure src="https://res.cloudinary.com/pmpartner/image/upload/v1744816191/authentic.jpg" title="A beautiful photo" >}}
 
 At which point, enter the 'Nimbys'. The UK government has, in its drive for growth, said it will 'back the builders over the blockers'. In response, Cambridge community leaders have, according to the FT, highlighted the wisdom of 'bringing the public with them'. It's important to note here that previous attempts to expand the city were met with 'intense local opposition' - and a purely 'top-down' approach is unlikely to achieve the desired results.
 
