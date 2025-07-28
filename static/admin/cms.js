@@ -20,7 +20,6 @@ CMS.registerEditorComponent({
         };
     },
     toBlock: function(data) {
-        //return `{{< figure src="${data.src}" title="${data.title}" >}}`;
         return `<figure><img src=${data.src} alt=${data.title}><figcaption>${data.title}</figcaption></figure>`;
     },
     toPreview: function(data) {
