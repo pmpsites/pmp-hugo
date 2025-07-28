@@ -19,11 +19,11 @@ CMS.registerEditorComponent({
             src: match[2],
         };
     },
-    toBlock: function(obj) {
-        return `{{< figure src="${obj.src}" title="${obj.title}" >}}`;
+    toBlock: function(data) {
+        return `{{< figure src="${data.src}" title="${data.title}" >}}`;
     },
-    toPreview: function(obj) {
-        return `<figure><img src=${obj.src} alt=${obj.title}><figcaption>${obj.title}</figcaption></figure>`;
+    toPreview: function(data) {
+        return `<figure><img src=${data.src} alt=${data.title}><figcaption>${data.title}</figcaption></figure>`;
     },
 });
 
