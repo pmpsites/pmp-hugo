@@ -95,4 +95,150 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}  
     filter:
           field: "layout"
-          value: 'article'               
+          value: 'article'
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: "Page", name: "page", widget: "hidden", default: "home"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Social Image", name: "socialImage", widget: "image"}
+          - {label: "SEO Description", name: "seoDescription", widget: "text"}
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Blurb", name: "blurb", widget: "text"}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string"}
+          - label: "Challenge"
+            name: "challenge"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string"}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - label: "Copy"
+                name: "copy"
+                widget: "list"
+                fields:
+                  - {label: "Paragraph", name: "paragraph", widget: "text"}
+              - {label: "Button Text", name: "buttontext", widget: "string"}
+          - label: "Approach"
+            name: "approach"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string"}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - label: "Copy"
+                name: "copy"
+                widget: "list"
+                fields:
+                  - {label: "Paragraph", name: "paragraph", widget: "text"}
+              - {label: "Button Text", name: "buttontext", widget: "string"}
+          - label: "Solution"
+            name: "solution"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Image Alt Text", name: "imgalt", widget: "string"}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - label: "Copy"
+                name: "copy"
+                widget: "list"
+                fields:
+                  - {label: "Paragraph", name: "paragraph", widget: "text"}
+              - {label: "Button Text", name: "buttontext", widget: "string"}
+          - label: "Process"
+            name: "process"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Copy", name: "copy", widget: "text"}
+              - {label: "Button Text", name: "buttontext", widget: "string"}
+              - label: "Cards"
+                name: "cards"
+                widget: "list"
+                fields:
+                  - {label: "Heading", name: "heading", widget: "string"}
+                  - {label: "Copy", name: "copy", widget: "text"}
+          - label: "Results"
+            name: "results"
+            widget: "object"
+            fields:
+              - {label: "Display", name: "display", widget: "boolean", default: true}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Copy", name: "copy", widget: "text"}
+              - label: "Cards"
+                name: "cards"
+                widget: "list"
+                fields:
+                  - {label: "Image", name: "image", widget: "image"}
+                  - {label: "Heading", name: "heading", widget: "string"}
+                  - {label: "Challenge", name: "challenge", widget: "text"}
+                  - {label: "Solution Heading", name: "solution-heading", widget: "string"}
+                  - {label: "Solution", name: "solution", widget: "text"}
+          - label: "CTA"
+            name: "cta"
+            widget: "object"
+            fields:
+              - label: "Heading"
+                name: "heading"
+                widget: "list"
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+                  - {label: "Color", name: "color", widget: "string"}
+              - {label: "Copy", name: "copy", widget: "text"}
+              - {label: "Button Text", name: "button-text", widget: "string"}
+              - {label: "Reasons Intro", name: "reasons-intro", widget: "string"}
+              - label: "Reasons"
+                name: "reasons"
+                widget: "list"
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+              - {label: "Reasons Outro", name: "reasons-outro", widget: "string"}
+      - file: "content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: "Page", name: "page", widget: "hidden", default: "about"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Text", name: "text", widget: "text"}
+          - label: "Partners"
+            name: "partners"
+            widget: "object"
+            fields:
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Text", name: "text", widget: "text"}
+              - label: "Partner"
+                name: "partner"
+                widget: "list"
+                fields:
+                  - {label: "Name", name: "name", widget: "string"}
+                  - {label: "Text", name: "text", widget: "text"}
+          - label: "Expertise"
+            name: "expertise"
+            widget: "object"
+            fields:
+              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Text", name: "text", widget: "text"}
+              - {label: "Note", name: "note", widget: "text"}
+              - {label: "Button Text", name: "buttontext", widget: "string"}                          
