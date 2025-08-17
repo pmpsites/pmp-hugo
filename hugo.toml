@@ -4,3 +4,11 @@ title = 'Place Marketing Partners'
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[build]
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = true
+
