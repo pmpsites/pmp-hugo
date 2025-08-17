@@ -7,8 +7,5 @@ title = 'Place Marketing Partners'
 
 [build]
   [build.buildStats]
-    disableClasses = false
-    disableIDs = false
-    disableTags = false
     enable = true
 
