@@ -266,7 +266,7 @@
   /* Tablet */
   
   
-  @media (min-width: var(--grid-tablet-max)) {
+  @media (min-width: 48rem) {
   /* Tablet styles */
   h1{
     font-size: 3.25rem;
@@ -310,7 +310,7 @@
     }
   }
   
-  @media (min-width: var(--grid-desktop-max)){
+  @media (min-width: 90rem){
   /* Desktop */
   h1{
   font-size: 4.125rem;
