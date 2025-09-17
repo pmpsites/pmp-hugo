@@ -1,5 +1,7 @@
 <article>
   {{ partial "readingtime.html" . }}
 {{ .Content | markdownify}}
+{{ with .Params.author }}
 {{ partial "article/author.html" . }}
+{{ end }}
 </article>
