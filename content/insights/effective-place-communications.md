@@ -3,6 +3,10 @@ title: Effective Place Communications
 layout: article
 image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/Corpus_Christi_College_Cambridge__UK
 description: Why are effective place communications vital in delivering ambitious economic development projects?
+author: 
+   name: Nick Smillie
+   role: Senior Consultant - Place Marketing
+   photo: https://res.cloudinary.com/pmpartner/image/upload/w_80/Nick-PMP-Photo-Round.png
 ---
 
 
