@@ -1,7 +1,7 @@
 ---
 title: Authentic Place Marketing
 layout: article
-image: https://res.cloudinary.com/pmpartner/image/upload/w_768/authentic-places.jpg
+image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512/authentic-places.jpg
 description: Authenticity is a word that often crops up in discussions about place marketing, and always in a positive sense.
 author: 
    name: Nick Smillie
