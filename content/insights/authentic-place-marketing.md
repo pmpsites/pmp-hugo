@@ -6,7 +6,7 @@ description: Authenticity is a word that often crops up in discussions about pla
 author: 
    name: Nick Smillie
    role: Senior Consultant - Place Marketing
-   photo: https://res.cloudinary.com/pmpartner/image/upload/w_80/Nick-PMP-Photo-Round.png
+   photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
 ---
 ### How can we promote our authentic place, with authentic place marketing?
 

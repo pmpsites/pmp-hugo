@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/pmpartner/image/upload/w_768/WLDC.jpg
 author: 
    name: Nick Smillie
    role: Senior Consultant - Place Marketing
-   photo: https://res.cloudinary.com/pmpartner/image/upload/w_80/Nick-PMP-Photo-Round.png
+   photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
 ---
 ### Which stories should we tell through our place marketing, and why should we tell them?
 **Places, whether they be towns, cities or regions, offer a wealth of stories from diverse perspectives. But which ones should we choose to tell through our place marketing, and why?** 

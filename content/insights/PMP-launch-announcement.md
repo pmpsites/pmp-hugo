@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_au
 author: 
    name: Nick Smillie
    role: Senior Consultant - Place Marketing
-   photo: https://res.cloudinary.com/pmpartner/image/upload/w_80/Nick-PMP-Photo-Round.png
+   photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
 ---
 **Clarity**, the inward investment marketing specialists, and **Diva Creative**, the full-service creative agency, have announced the launch of Place Marketing Partners, providing a comprehensive, strategic place marketing solution for clients including local authorities, regional agencies, developers and strategic economic development projects.
 

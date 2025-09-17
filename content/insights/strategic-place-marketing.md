@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_au
 author: 
    name: Nick Smillie
    role: Senior Consultant - Place Marketing
-   photo: https://res.cloudinary.com/pmpartner/image/upload/w_80/Nick-PMP-Photo-Round.png
+   photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
 ---
 At Place Marketing Partners, a big part of our motivation is to make place marketing more strategic. This means ensuring that all our place marketing activities are focused on achieving defined, and ideally measurable, marketing goals. Ultimately, for the places we're promoting, it means attracting more of the right kinds of people and businesses, with the economic and social benefits that follow.
 
