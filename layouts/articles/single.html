@@ -3,6 +3,9 @@
   <section id="article" class="article">
     <div class="text-image col-7-span-12"> 
        {{ partial "article/article.html" . }}
+       {{ with .Params.author }}
+         {{ partial "article/author.html" . }}
+       {{ end }}
        {{ partial "article/article-footer.html" . }}
     </div>
   </section>    
