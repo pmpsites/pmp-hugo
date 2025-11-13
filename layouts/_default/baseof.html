@@ -5,7 +5,7 @@
 </head>
 <body>
     <a class="skip-main" href="#main">Skip to main content</a>
-    <div id="main" class="main {{ .Params.page}} {{ .Params.layout}}">
+    <main id="main" class="main {{ .Params.page}} {{ .Params.layout}}" role="main">
     <div class="container">
     {{ partial "header.html" . }}
 
@@ -15,7 +15,7 @@
     
     {{ partial "footer.html" . }}
 </div><!-- div.container -->
-</div><!-- div.main -->    
+</main><!-- div.main -->    
     
 </body>
 </html>
