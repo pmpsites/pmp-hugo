@@ -1,14 +1,17 @@
 ---
 layout: article
 title: Place Marketing With Purpose - a Central European Case Study
-draft: false
+draft: true
 date: 2025-11-18T14:34:00+01:00
-description: In one sense, a city, like every other kind of place, is a collection of stories. We all know there’s a 'real' city out there. But we're human. We only understand it from the ways we describe it - the stories we tell.
+description: In one sense, a city, like every other kind of place, is a
+  collection of stories. We all know there’s a 'real' city out there. But we're
+  human. We only understand it from the ways we describe it - the stories we
+  tell.
 image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/budapest.jpg
-author: 
-   name: Nick Smillie
-   role: Senior Consultant - Place Marketing
-   photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
+author:
+  name: Nick Smillie
+  role: Senior Consultant - Place Marketing
+  photo: https://res.cloudinary.com/pmpartner/image/upload/c_fill,g_auto,w_80,h_80,b_rgb:fc7c55/Nick-Smillie.png
 ---
 
 In one sense, a city, like every other kind of place, is a collection of stories. We all know there’s a 'real' city out there. But we're human. We only understand it from the ways we describe it - the stories we tell.
