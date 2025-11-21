@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Place Marketing With Purpose - a Central European Case Study
+title: Place Storytelling With Purpose - a Central European Case Study
 draft: true
 date: 2025-11-18T14:34:00+01:00
 description: In one sense, a city, like every other kind of place, is a
