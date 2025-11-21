@@ -1,6 +1,6 @@
 ---
 layout: article
-draft: true
+draft: false
 author:
   name: Nick Smillie
   role: Senior Consultant - Place Marketing
