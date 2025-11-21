@@ -14,6 +14,8 @@ description: In one sense, a city, like every other kind of place, is a
 image: https://res.cloudinary.com/pmpartner/image/upload/c_fill,w_768,h_512,f_auto,q_auto/budapest.jpg
 tags:
   - News
+  - Thinking
+  - Strategy
 ---
 In one sense, a city, like every other kind of place, is a collection of stories. We all know there’s a real city out there. But we're human. We only know about it from the ways we describe it - the stories we tell.
 
