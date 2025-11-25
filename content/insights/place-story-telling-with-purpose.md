@@ -27,7 +27,7 @@ And when I visited, in good company, I wasn’t disappointed. I experienced a pl
 
 Only later, inspired to find out more, did I uncover a much more complex story. The wartime destruction here had been far more extensive than the simple 'tourism narrative’ suggested. And when the district was rebuilt by the post-war communist government, many of the Baroque buildings were recreated in a different, simpler style - more attuned to their socialist ideology.
 
-Now, in a time of resurgent traditionalism, Castle Hill is being restored to its late-19th Century appearance, eradicating traces of the communist past in the process. This narrative, it turns out, has more layers than the hill itself, from the catacombs beneath your feet to the tip of the Matthias Church tower. And it's one in which nothing is quite what it apppears to be.
+Now, in a time of resurgent traditionalism, Castle Hill is being restored to its late-19th Century appearance, eradicating traces of the communist past in the process. This narrative, it turns out, has more layers than the hill itself, from the catacombs beneath your feet to the tip of the Matthias Church tower. And it's one in which nothing is quite what it appears to be.
 
 So was this the *real* story? And was the simple, alluring tourism narrative just fakery?
 
